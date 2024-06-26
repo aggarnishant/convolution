@@ -1,0 +1,94 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/ise/Documents/Verilog/Dataflow/convolution/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/ise/Documents/Verilog/Dataflow/convolution/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+Reading design: final.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "/home/ise/Documents/Verilog/Dataflow/convolution/final.v" into library work
+Parsing module <convolution>.
+Parsing module <LOAD>.
+Parsing module <MULOUT1>.
+Parsing module <CONOUT1>.
+Parsing module <MULOUT2>.
+Parsing module <CONOUT2>.
+Parsing module <MULOUT3>.
+Parsing module <CONOUT3>.
+Parsing module <MULOUT4>.
+Parsing module <CONOUT4>.
+Parsing module <MULOUT5>.
+Parsing module <CONOUT5>.
+Parsing module <MULOUT6>.
+Parsing module <CONOUT6>.
+Parsing module <MULOUT7>.
+Parsing module <CONOUT7>.
+Parsing module <MULOUT8>.
+Parsing module <CONOUT8>.
+Parsing module <MULOUT9>.
+Parsing module <CONOUT9>.
+Parsing module <MULOUT10>.
+Parsing module <CONOUT10>.
+Parsing module <MULOUT11>.
+Parsing module <CONOUT11>.
+Parsing module <MULOUT12>.
+Parsing module <CONOUT12>.
+Parsing module <MULOUT13>.
+Parsing module <CONOUT13>.
+Parsing module <MULOUT14>.
+Parsing module <CONOUT14>.
+Parsing module <MULOUT15>.
+Parsing module <CONOUT15>.
+Parsing module <BoothMulti>.
+Parsing module <controller>.
+Parsing module <tb>.
+
+
+Total REAL time to Xst completion: 3.00 secs
+Total CPU time to Xst completion: 0.66 secs
+ 
+--> 
+
+
+Total memory usage is 299468 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

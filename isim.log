@@ -1,0 +1,32 @@
+ISim log file
+Running: /home/ise/Documents/Verilog/Dataflow/convolution/tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/Documents/Verilog/Dataflow/convolution/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0C1=     X,C2=     x,C3=     x,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=x
+                   5C1=     X,C2=     x,C3=     x,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                  35C1=     0,C2=     x,C3=     x,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                  45C1=     0,C2=     0,C3=     x,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                  55C1=     0,C2=     0,C3=     0,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                  65C1=     0,C2=     0,C3=     0,C4=     0,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                  85C1=     0,C2=     0,C3=     0,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                  95C1=     0,C2=     0,C3=     x,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                 105C1=     0,C2=     x,C3=     x,C4=     x,C5=     x,C6=     x,C7=     x,C8=     x,C9=     x,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                 115C1=   132,C2=   367,C3=   794,C4=  1494,C5=  2730,C6=  4945,C7=  6934,C8= 10309,C9= 12400,C10=     x,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                 125C1=   132,C2=   367,C3=   794,C4=  1494,C5=  2730,C6=  4945,C7=  6934,C8= 10309,C9= 12400,C10= 14750,C11=     x,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                 135C1=   132,C2=   367,C3=   794,C4=  1494,C5=  2730,C6=  4945,C7=  6934,C8= 10309,C9= 12400,C10= 14750,C11= 16210,C12=     x,C13=     x,C14=     x,C15=     X,done=0
+                 145C1=   132,C2=   367,C3=   794,C4=  1494,C5=  2730,C6=  4945,C7=  6934,C8= 10309,C9= 12400,C10= 14750,C11= 16210,C12= 15395,C13=     x,C14=     x,C15=     X,done=0
+                 155C1=   132,C2=   367,C3=   794,C4=  1494,C5=  2730,C6=  4945,C7=  6934,C8= 10309,C9= 12400,C10= 14750,C11= 16210,C12= 15395,C13= 15440,C14=     x,C15=     X,done=0
+                 165C1=   132,C2=   367,C3=   794,C4=  1494,C5=  2730,C6=  4945,C7=  6934,C8= 10309,C9= 12400,C10= 14750,C11= 16210,C12= 15395,C13= 15440,C14=  7380,C15=     X,done=1
+                 175C1=   132,C2=   367,C3=   794,C4=  1494,C5=  2730,C6=  4945,C7=  6934,C8= 10309,C9= 12400,C10= 14750,C11= 16210,C12= 15395,C13= 15440,C14=  7380,C15=  7200,done=1
+# exit 0

@@ -1,0 +1,53 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/ise/Documents/Verilog/Dataflow/convolution/tb_isim_beh.exe -prj /home/ise/Documents/Verilog/Dataflow/convolution/tb_beh.prj work.tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/Documents/Verilog/Dataflow/convolution/final.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95268 KB
+Fuse CPU Usage: 1330 ms
+Compiling module LOAD
+Compiling module BoothMulti
+Compiling module MULOUT1
+Compiling module CONOUT1
+Compiling module MULOUT2
+Compiling module CONOUT2
+Compiling module MULOUT3
+Compiling module CONOUT3
+Compiling module MULOUT4
+Compiling module CONOUT4
+Compiling module MULOUT5
+Compiling module CONOUT5
+Compiling module MULOUT6
+Compiling module CONOUT6
+Compiling module MULOUT7
+Compiling module CONOUT7
+Compiling module MULOUT8
+Compiling module CONOUT8
+Compiling module MULOUT9
+Compiling module CONOUT9
+Compiling module MULOUT10
+Compiling module CONOUT10
+Compiling module MULOUT11
+Compiling module CONOUT11
+Compiling module MULOUT12
+Compiling module CONOUT12
+Compiling module MULOUT13
+Compiling module CONOUT13
+Compiling module MULOUT14
+Compiling module CONOUT14
+Compiling module MULOUT15
+Compiling module CONOUT15
+Compiling module convolution
+Compiling module controller
+Compiling module tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 36 Verilog Units
+Built simulation executable /home/ise/Documents/Verilog/Dataflow/convolution/tb_isim_beh.exe
+Fuse Memory Usage: 98492 KB
+Fuse CPU Usage: 2260 ms
+GCC CPU Usage: 2700 ms
